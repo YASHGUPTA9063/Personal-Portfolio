@@ -59,6 +59,7 @@
         }
 
         header:hover img {
+            text-decoration: none;
             
         }
 
